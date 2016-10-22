@@ -1,6 +1,6 @@
 #MathOperations
 
-<img border="0" height="320" src="//3.bp.blogspot.com/-15iy2CMMxPQ/UTo68UegGsI/AAAAAAAAAFY/ZTB8OjGjryE/s320/GASoft+MathOperations.jpg" width="266">
+<img border="0" height="320" src="https://3.bp.blogspot.com/-15iy2CMMxPQ/UTo68UegGsI/AAAAAAAAAFY/ZTB8OjGjryE/s320/GASoft+MathOperations.jpg" width="266">
 
 Parantezli ve içiçe yazılmış matematiksel işlemleri hesaplar.
 
