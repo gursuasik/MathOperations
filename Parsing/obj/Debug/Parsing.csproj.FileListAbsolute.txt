@@ -1,0 +1,60 @@
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\Parsing.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\bin\Debug\Parsing.exe
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\Parsing.exe
+C:\Users\Asus\Documents\Visual Studio 2008\Projects\Parsing\Parsing\obj\Debug\Parsing.pdb
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\Parsing.exe
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\Parsing.pdb
+C:\Users\Gürsu\Desktop\Parsing\Parsing\bin\Debug\Parsing.exe
+C:\Users\Gürsu\Desktop\Parsing\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Gürsu\Desktop\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.pdb
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Documents\Edit\Documents\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.csprojResolveAssemblyReference.cache
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Documents\Edit\Works\Visual Studio\C#\Windows\Windows Form Aplication\Parsing\Parsing\obj\Debug\Parsing.csproj.GenerateResource.Cache
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\bin\Debug\Parsing.exe
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\bin\Debug\Parsing.pdb
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.csprojResolveAssemblyReference.cache
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.Form1.resources
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.Properties.Resources.resources
+D:\Documents\Works\Visual Studio\C#\Windows\Windows Forms Application\Parsing\Parsing\obj\Debug\Parsing.csproj.GenerateResource.Cache
